@@ -147,19 +147,60 @@ Self-hosted GitLab on-premises with private Docker registry, so source and image
 
 ## Certifications
 
-**Passed**
-<p>
-  <img src="https://img.shields.io/badge/AZ--104-Microsoft%20Azure%20Administrator-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-104 Passed">
-  <img src="https://img.shields.io/badge/DevSecOps%20Diploma-IT%20Gate%20Academy-1F6FEB?style=for-the-badge&logo=redhat&logoColor=white" alt="DevSecOps Diploma">
-  <img src="https://img.shields.io/badge/Saudi%20Council%20of%20Engineers-Registered-006C35?style=for-the-badge&logo=verizon&logoColor=white" alt="SCE Registered">
-</p>
+### Passed
 
-**In preparation — expected 12/2026**
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="https://learn.microsoft.com/credentials/certifications/azure-administrator/" title="Microsoft Certified: Azure Administrator Associate">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="110" alt="AZ-104 Azure Administrator Associate"><br>
+        <b>AZ-104</b><br>
+        <sub>Azure Administrator Associate</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### In preparation — expected 12/2026
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/" title="Certified Kubernetes Administrator">
+        <img src="https://images.credly.com/size/340x340/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" height="110" alt="CKA"><br>
+        <b>CKA</b><br>
+        <sub>Kubernetes Administrator</sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/" title="Certified Kubernetes Security Specialist">
+        <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/07/kubernetes-security-specialist-logo-300x285.png" height="110" alt="CKS"><br>
+        <b>CKS</b><br>
+        <sub>Kubernetes Security Specialist</sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://learn.microsoft.com/credentials/certifications/devops-engineer/" title="Microsoft Certified: DevOps Engineer Expert">
+        <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="110" alt="AZ-400"><br>
+        <b>AZ-400</b><br>
+        <sub>DevOps Engineer Expert</sub>
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-openshift-administration-exam" title="Red Hat Certified Specialist in OpenShift Administration">
+        <img src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo.svg" height="70" alt="EX280"><br><br>
+        <b>EX280</b><br>
+        <sub>Red Hat OpenShift Administrator</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Other credentials
+
 <p>
-  <img src="https://img.shields.io/badge/CKA-In%20preparation-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA">
-  <img src="https://img.shields.io/badge/CKS-In%20preparation-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKS">
-  <img src="https://img.shields.io/badge/AZ--400-In%20preparation-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="AZ-400">
-  <img src="https://img.shields.io/badge/EX280-In%20preparation-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="EX280">
+  <img src="https://img.shields.io/badge/DevSecOps%20Diploma-IT%20Gate%20Academy-1F6FEB?style=for-the-badge" alt="DevSecOps Diploma">
+  <img src="https://img.shields.io/badge/Saudi%20Council%20of%20Engineers-Registered-006C35?style=for-the-badge" alt="SCE Registered">
 </p>
 
 **Education** — B.Sc. Computer Science, Mansoura University, Egypt (2017)
