@@ -158,8 +158,24 @@ Self-hosted GitLab on-premises with private Docker registry, so source and image
         <sub>Azure Administrator Associate</sub>
       </a>
     </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/org/gitlab/badge/gitlab-solutions-architect-core-verified-associate" title="GitLab Solutions Architect Core Verified Associate">
+        <img src="https://images.credly.com/images/5b846e16-a9ba-4bc6-b9c0-86beeee8d2ce/image.png" height="110" alt="GitLab Solutions Architect"><br>
+        <b>GitLab Solutions Architect</b><br>
+        <sub>Core Verified Associate</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
+      <a href="https://www.credly.com/org/gitlab/badge/professional-sales-accreditation-for-partners" title="GitLab Professional Sales Accreditation for Partners">
+        <img src="https://images.credly.com/images/1ddd86e6-8a84-4feb-aec4-4733d7caf5ab/blob" height="110" alt="GitLab Professional Sales Accreditation"><br>
+        <b>GitLab Partner</b><br>
+        <sub>Professional Sales Accreditation</sub>
+      </a>
+    </td>
   </tr>
 </table>
+
+<sub>Verified credentials on <a href="https://www.credly.com/users/islam-handousa">Credly</a>.</sub>
 
 ### In preparation — expected 12/2026
 
