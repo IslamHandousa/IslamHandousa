@@ -159,6 +159,13 @@ Self-hosted GitLab on-premises with private Docker registry, so source and image
       </a>
     </td>
     <td align="center" width="200">
+      <a href="https://www.f5.com/company/blog/nginx/nginx-certification-program" title="NGINX Certification by F5">
+        <img src="https://images.credly.com/size/340x340/images/06825c7f-6c45-4b6a-bbf7-fa5bbd303b32/image.png" height="110" alt="NGINX Certification by F5"><br>
+        <b>NGINX</b><br>
+        <sub>Certification by F5</sub>
+      </a>
+    </td>
+    <td align="center" width="200">
       <a href="https://www.credly.com/org/gitlab/badge/gitlab-solutions-architect-core-verified-associate" title="GitLab Solutions Architect Core Verified Associate">
         <img src="https://images.credly.com/images/5b846e16-a9ba-4bc6-b9c0-86beeee8d2ce/image.png" height="110" alt="GitLab Solutions Architect"><br>
         <b>GitLab Solutions Architect</b><br>
@@ -189,6 +196,13 @@ Self-hosted GitLab on-premises with private Docker registry, so source and image
       </a>
     </td>
     <td align="center" width="180">
+      <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/" title="Certified Kubernetes Application Developer">
+        <img src="https://images.credly.com/size/340x340/images/f41cf0f3-eb99-4888-9dfb-28cfaa2e5t36/ckad_from_cncfsite.png" height="110" alt="CKAD"><br>
+        <b>CKAD</b><br>
+        <sub>Kubernetes Application Developer</sub>
+      </a>
+    </td>
+    <td align="center" width="180">
       <a href="https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/" title="Certified Kubernetes Security Specialist">
         <img src="https://training.linuxfoundation.org/wp-content/uploads/2020/07/kubernetes-security-specialist-logo-300x285.png" height="110" alt="CKS"><br>
         <b>CKS</b><br>
@@ -196,17 +210,17 @@ Self-hosted GitLab on-premises with private Docker registry, so source and image
       </a>
     </td>
     <td align="center" width="180">
+      <a href="https://www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-openshift-administration-exam" title="Red Hat Certified Specialist in OpenShift Administration">
+        <img src="https://images.credly.com/size/340x340/images/e7a34dc0-feb1-44a1-b8e7-3f825faf1c8e/blob" height="110" alt="EX280"><br>
+        <b>EX280</b><br>
+        <sub>Red Hat OpenShift Administrator</sub>
+      </a>
+    </td>
+    <td align="center" width="180">
       <a href="https://learn.microsoft.com/credentials/certifications/devops-engineer/" title="Microsoft Certified: DevOps Engineer Expert">
         <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" height="110" alt="AZ-400"><br>
         <b>AZ-400</b><br>
         <sub>DevOps Engineer Expert</sub>
-      </a>
-    </td>
-    <td align="center" width="180">
-      <a href="https://www.redhat.com/en/services/training/ex280-red-hat-certified-specialist-openshift-administration-exam" title="Red Hat Certified Specialist in OpenShift Administration">
-        <img src="https://static.redhat.com/libs/redhat/brand-assets/2/corp/logo.svg" height="70" alt="EX280"><br><br>
-        <b>EX280</b><br>
-        <sub>Red Hat OpenShift Administrator</sub>
       </a>
     </td>
   </tr>
